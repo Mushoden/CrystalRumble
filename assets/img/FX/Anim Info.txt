@@ -1,0 +1,2 @@
+Ice-Punch: 125*115, pivot 0.61, 0.54
+Ice-Impact: 91*95, pivot 0.91, 0.51
